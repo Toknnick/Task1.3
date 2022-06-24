@@ -14,9 +14,7 @@ namespace Task4
             string home = Console.ReadLine();
             Console.WriteLine("Где Вы работаете?");
             string work = Console.ReadLine();
-
             Console.WriteLine($"Вы {name}, вам {age} год, вы живете {home}, работаете на {work}");
-
         }
     }
 }
